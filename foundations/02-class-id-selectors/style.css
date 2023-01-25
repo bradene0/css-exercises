@@ -1,8 +1,12 @@
-.odd-num {
+.odd-num,
+.three {
     background-color: rgb(rgb(221, 63, 116), green, blue);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 #two {
     color: rgb(rgb(16, 53, 221), green, blue);
     font-size: 36px;
+}
+.three {
+    font-size: 24px;
 }
